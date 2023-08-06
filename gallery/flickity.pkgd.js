@@ -14,7 +14,7 @@
  * v1.1.0
  * MIT license
  */
-
+//3361 line mod
 ( function( window ) {
 
 
@@ -3358,7 +3358,7 @@ proto.unbindDrag = function() {
 };
 
 proto.hasDragStarted = function( moveVector ) {
-  return Math.abs( moveVector.x ) > 3;
+  return Math.abs( moveVector.x ) > 70;
 };
 
 proto._uiChangeDrag = function() {
